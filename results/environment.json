@@ -1,0 +1,15 @@
+{
+  "python": "3.9.6 (default, Aug 25 2026, 21:26:21) \n[Clang 21.0.0 (clang-2100.3.34.2)]",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "matplotlib": "3.9.4",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "seeds": [
+    101,
+    421,
+    872,
+    983,
+    784
+  ],
+  "timing_repeats": 7
+}
